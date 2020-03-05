@@ -33,7 +33,7 @@ yes
 -activate the installation
 source ~/.bashrc
 
-### To Update:
+### Update Anaconda:
 
 -open a new terminal window
 
@@ -46,7 +46,7 @@ conda update anaconda
 -open anaconda navigator
 anaconda-navigator
 
-To add a desktop Icon Because the installer does not provide one:
+### To add a desktop Icon Because the installer does not provide one:
 https://askubuntu.com/questions/1017284/cant-create-anaconda-shortcut-to-launch-from-desktop-on-ubuntu-17-10
 
 -Create a text document in the HOME directory
