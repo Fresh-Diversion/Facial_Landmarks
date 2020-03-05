@@ -1,6 +1,6 @@
 # facial_landmarks
 
-Linux Mint Install Anaconda
+##Linux Mint Install Anaconda
 
 https://docs.anaconda.com/anaconda/install/linux/
 
