@@ -33,7 +33,7 @@ yes
 -activate the installation
 source ~/.bashrc
 
-###### To Update:
+### To Update:
 
 -open a new terminal window
 
